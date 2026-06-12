@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Ananya 👋
 
-<!--
-**ananya2202/ananya2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student (AI Specialization)  
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Software Development  
+💡 Building AI systems that solve real-world problems  
+🌱 Currently learning Deep Learning, MLOps, Full Stack Development, and Advanced DSA
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- C++
+- JavaScript
+- SQL
+
+### AI / ML
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- Pandas
+- NumPy
+- Matplotlib
+
+### Web Development
+- Flask
+- HTML
+- CSS
+- JavaScript
+
+### Databases & Tools
+- MySQL
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 📫 Connect With Me
+
+- GitHub:https://github.com/ananya2202
+- LinkedIn: https://www.linkedin.com/in/ananya-chatterjee-016809330/
+
+---
+
+⭐ Always learning, always building, and always curious.
